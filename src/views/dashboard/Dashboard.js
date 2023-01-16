@@ -180,11 +180,12 @@ const Dashboard = () => {
 
   return (
     <>
+     <h3>Hi! Welcome Back </h3>
       <WidgetsDropdown />
       <CCard className="mb-4">
         <CCardBody>
           <CRow>
-            <CCol sm={5}>
+            <CCol sm={5}> 
               <h4 id="traffic" className="card-title mb-0">
                 Traffic
               </h4>

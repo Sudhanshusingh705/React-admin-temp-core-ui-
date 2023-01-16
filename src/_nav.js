@@ -33,7 +33,7 @@ const _nav = [
   {
     component: CNavItem,
     name: 'Connect Account',
-    to: '/connect ',
+    to: '/Add ',
     icon: <CIcon icon={cilUserFemale} customClassName="nav-icon" />,
   },
   {
